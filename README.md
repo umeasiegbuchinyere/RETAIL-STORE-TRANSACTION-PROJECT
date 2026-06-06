@@ -29,8 +29,11 @@ The retail store generates a large volume of transaction data, making it difficu
 Microsoft Excel
 
 Data Cleaning
+
 Pivot Tables
+
 Charts and Visualizations
+
 Interactive Dashboard
 
 
