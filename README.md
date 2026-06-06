@@ -22,6 +22,9 @@ This project analyzes retail store transaction data to evaluate sales performanc
 ## Data Source
 The data for this project was sourced from a retail sales transaction dataset containing customer purchases and product sales records. The dataset captures transactional information including purchase dates, customer IDs, transaction IDs, product categories, product codes, quantities sold, and sales revenue. This data serves as the foundation for analyzing sales patterns, identifying top-performing products, and generating actionable business insights through data visualization and reporting.
 
+## Problem Statement
+The retail store generates a large volume of transaction data, making it difficult to manually track sales performance, product demand, and customer purchasing trends. This project seeks to analyze retail sales data to identify key business insights, monitor sales performance, evaluate product categories, and support strategic decision-making through data visualization and reporting.
+
 
 
 
