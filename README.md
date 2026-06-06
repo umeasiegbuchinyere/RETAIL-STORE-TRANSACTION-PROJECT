@@ -25,6 +25,15 @@ The data for this project was sourced from a retail sales transaction dataset co
 ## Problem Statement
 The retail store generates a large volume of transaction data, making it difficult to manually track sales performance, product demand, and customer purchasing trends. This project seeks to analyze retail sales data to identify key business insights, monitor sales performance, evaluate product categories, and support strategic decision-making through data visualization and reporting.
 
+## Tools Used
+Microsoft Excel
+
+Data Cleaning
+Pivot Tables
+Charts and Visualizations
+Interactive Dashboard
+
+
 
 
 
