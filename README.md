@@ -46,6 +46,15 @@ Interactive Dashboard
 
 -A new column was added to derive the total sales which was gotten from Quantity multiplied by the Sales Amount
 
+## Data Analysis
+
+The following Pivots were gotten from the data set
+
+- Total sales by category
+
+<img width="161" height="586" alt="image" src="https://github.com/user-attachments/assets/141e1f05-9888-431e-aed3-734058344da4" />
+
+
 
 
 
