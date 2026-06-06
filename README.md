@@ -36,6 +36,19 @@ Charts and Visualizations
 
 Interactive Dashboard
 
+## Skills Demonstrated
+
+-The first column which carries the numbering of the data was removed beacuse is not necessary for the analysis
+
+-The data was coverted to a table
+
+-Duplicate values was checked
+
+-A new column was added to derive the total sales which was gotten from Quantity multiplied by the Sales Amount
+
+
+
+
 
 
 
