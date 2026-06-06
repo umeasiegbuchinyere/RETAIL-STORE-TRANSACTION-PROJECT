@@ -54,6 +54,27 @@ The following Pivots were gotten from the data set
 
 <img width="161" height="586" alt="image" src="https://github.com/user-attachments/assets/141e1f05-9888-431e-aed3-734058344da4" />
 
+- Quantity sold by Category
+
+<img width="161" height="586" alt="image" src="https://github.com/user-attachments/assets/9d3362e3-71b3-4e55-bd70-c52bd5bbd918" />
+
+- Sales Trend by Date
+
+<img width="161" height="586" alt="image" src="https://github.com/user-attachments/assets/6646e02e-5a2b-473b-b2f5-874e140e0863" />
+
+- Customer Purchase Frequency
+
+<img width="161" height="586" alt="image" src="https://github.com/user-attachments/assets/a55e6061-1b85-4c1a-b20a-c7f0b06bac77" />
+
+
+## Visualisations
+
+<img width="518" height="565" alt="Retail Transaction Dashboard" src="https://github.com/user-attachments/assets/c4ca1cf8-2352-4e45-af93-70d7239f1262" />
+
+
+
+
+
 
 
 
