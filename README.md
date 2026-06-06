@@ -17,6 +17,7 @@
 
 
 ## Project Overview
+This project analyzes retail store transaction data to evaluate sales performance, product demand, and revenue trends. By transforming raw sales data into actionable insights through data cleaning, analysis, and dashboard visualization, the project helps management identify top-performing products, monitor business performance, and make informed decisions on inventory, sales strategies, and operational efficiency. The findings support data-driven decision-making aimed at improving profitability and overall business growth.
 
 
 
