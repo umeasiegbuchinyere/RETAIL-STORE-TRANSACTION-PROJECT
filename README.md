@@ -4,7 +4,7 @@
 
 # Table of Content
 
-- [Project Ooverview](#Project-Overview)
+- [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
 - [Problem Statement](#Problem-Statement)
 - [Tools Used](#Tools-Used)
